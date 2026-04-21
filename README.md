@@ -1,11 +1,40 @@
-# ramadanzah-resolusi
-Repositori untuk menyimpan rencana Ramadanzah kedepannya
+**# Hi there, I'm Ramadanzah! 👋
+
+## 🚀 My 2026 Resolutions
+I'm on a mission to build, create, and inspire. Here’s what I’m working towards:
+
+* **💻 Code Master:** Aiming to create a massive collection of high-quality repositories.
+* **🌐 Career Path:** Training hard to become a **Professional Web Developer**.
+* **🎮 Content Creation:** Building an empire as a **Famous Minecraft YouTuber**.
+
+---
+
+### 🛠 Tech Stack & Tools
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 📊 Progress Tracker
+- **Repositories Collection** `▓▓▓░░░░░░░░░░░░░░░░░` 15%
+- **Web Dev Skills** `▓▓▓▓▓▓░░░░░░░░░░░░░░` 30%
+- **Minecraft Content** `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` 40%
+
+---
+
+### 📱 Connect with Me
+Let's grow together! Follow my journey on:
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@RamadanzahFx)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@RamadanzahFx)
+
+---
+
+*"Building the future, one block and one line of code at a time."* ⚒️🌐**
 
 ```
- 000000b.      00000b.    000   000    00000b.    000000b.     00000b.    000   011   011111111     00000b.    000   011
- 000  "00b    000   00b   0000 0000   000   00b   000  "00b   000   00b   0000  011   000000001    000   00b   000   011
- 000  .00P   000     00b  000101000  000     00b  000   00P  000     00b  00000 011        001    000     00b  000   011
- 000000P"    0000000000b  000 0 000  0000000000b  000   00P  0000000000b  000 00011       001     0000000000b  000000011
- 000  00b    000     00b  000   000  000     00b  000   00P  000     00b  000  0011      001      000     00b  000   011
- 000   00b   000     00b  000   000  000     00b  000  .00P  000     00b  000   011    001        000     00b  000   011
- 000    00b  000     00b  000   000  000     00b  000000P"   000     00b  000   010    011111111  000     00b  000   011
+d8888b.  .d8b.  .88b  d88.  .d8b.  d8888b.  .d8b.  d8b   db d88888D  .d8b.  db   db
+88  `8D d8' `8b 88'YbdP`88 d8' `8b 88  `8D d8' `8b 888o  88 YP  d8' d8' `8b 88   88
+88oobY' 88ooo88 88  88  88 88ooo88 88   88 88ooo88 88V8o 88    d8'  88ooo88 88ooo88
+88`8b   88~~~88 88  88  88 88~~~88 88   88 88~~~88 88 V8o88   d8'   88~~~88 88~~~88
+88 `88. 88   88 88  88  88 88   88 88  .8D 88   88 88  V888  d8' db 88   88 88   88
+88   YD YP   YP YP  YP  YP YP   YP Y8888D' YP   YP VP   V8P d88888P YP   YP YP   YP
